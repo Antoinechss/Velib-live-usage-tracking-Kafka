@@ -6,3 +6,12 @@ Created topic velib-stations.
 velib-stations
 (.venv) (base) antoinechosson@antoine-mac kafka_2.13-4.3.1 % 
 
+
+
+(.venv) (base) antoinechosson@antoine-mac kafka_2.13-4.3.1 % bin/kafka-topics.sh --create --bootstrap-server localhost:9092 --replication-factor 1 --partitions 1 --topic stations-status
+Created topic stations-status.
+(.venv) (base) antoinechosson@antoine-mac kafka_2.13-4.3.1 % bin/kafka-topics.sh --list --bootstrap-server localhost:9092
+
+stations-status
+velib-stations
+(.venv) (base) antoinechosson@antoine-mac kafka_2.13-4.3.1 % 
