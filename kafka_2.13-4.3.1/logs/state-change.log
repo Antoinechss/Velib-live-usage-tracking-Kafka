@@ -1,6 +1,0 @@
-[2026-10-12 17:07:28,980] INFO [Broker id=1] Transitioning 1 partition(s) to local leaders. (state.change.logger)
-[2026-10-12 17:07:29,026] INFO [Broker id=1] Creating new partition stations-status-0 with topic id nbwcbXwsRX6w0HPhbVif5Q. (state.change.logger)
-[2026-10-12 17:07:29,147] INFO [Broker id=1] Leader stations-status-0 with topic id Some(nbwcbXwsRX6w0HPhbVif5Q) starts at leader epoch 0 from offset 0 with partition epoch 0, high watermark 0, ISR [1], adding replicas [] and removing replicas [] . Previous leader None and previous leader epoch was -1. (state.change.logger)
-[2026-10-12 17:40:22,222] INFO [Broker id=1] Transitioning 1 partition(s) to local leaders. (state.change.logger)
-[2026-10-12 17:40:22,232] INFO [Broker id=1] Creating new partition empty-stations-0 with topic id kPGHcVCKRQaq-9kutz1dXw. (state.change.logger)
-[2026-10-12 17:40:22,310] INFO [Broker id=1] Leader empty-stations-0 with topic id Some(kPGHcVCKRQaq-9kutz1dXw) starts at leader epoch 0 from offset 0 with partition epoch 0, high watermark 0, ISR [1], adding replicas [] and removing replicas [] . Previous leader None and previous leader epoch was -1. (state.change.logger)

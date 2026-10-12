@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Local Kafka distribution
+kafka_*/
+
+# Generated data
+*-archive.txt
+
+# Local files
+.env
+.DS_Store
+*.pdf
+*.zip

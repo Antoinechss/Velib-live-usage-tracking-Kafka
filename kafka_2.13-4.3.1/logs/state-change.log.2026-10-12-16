@@ -1,3 +1,0 @@
-[2026-10-12 16:59:52,599] INFO [Broker id=1] Transitioning 1 partition(s) to local leaders. (state.change.logger)
-[2026-10-12 16:59:52,604] INFO [Broker id=1] Creating new partition velib-stations-0 with topic id IPo8zhjKSxuUA5KtQ3XL2g. (state.change.logger)
-[2026-10-12 16:59:52,634] INFO [Broker id=1] Leader velib-stations-0 with topic id Some(IPo8zhjKSxuUA5KtQ3XL2g) starts at leader epoch 0 from offset 0 with partition epoch 0, high watermark 0, ISR [1], adding replicas [] and removing replicas [] . Previous leader None and previous leader epoch was -1. (state.change.logger)
